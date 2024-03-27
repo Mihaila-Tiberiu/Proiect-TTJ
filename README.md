@@ -9,7 +9,7 @@ Din cauza costurilor implicate, nu se pot viza toți clienții companiei.
 
 ### Cerinte:
 1. Identificați cei mai probabili clienți care se vor retrage în viitor.
-2. 2Identificați și explicați factorii determinanți ai retragerii – care sunt cei mai importanți factori ai retragerii?
+2. Identificați și explicați factorii determinanți ai retragerii – care sunt cei mai importanți factori ai retragerii?
 
 ### Concluzii:
 
